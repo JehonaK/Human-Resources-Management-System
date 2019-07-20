@@ -1,0 +1,32 @@
+.card1{
+    padding: 15px 15px 15px 25px;
+    background-color: white;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.row1{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.note1{
+    margin-left: 15px;
+}
+
+.row1 input {
+    width:350px;
+    margin-bottom: 15px;
+}
+
+.row1 select {
+    margin-bottom: 15px;
+    width:350px;
+}
+
+textarea{
+    padding:20px 20px;
+}
+
+label{
+    color:black;
+}
